@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+torchvision
+statsmodels
+seaborn
+tqdm
+PyWavelets
+shutils
+pillow
+mne
+matplotlib
